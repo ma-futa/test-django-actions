@@ -7,7 +7,7 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-return "<h1>Congratulations. You have successfully deployed.</h1>";
+return "<h1>Congratulations. You have successfully deployed futa.</h1>";
 }
 }
  
